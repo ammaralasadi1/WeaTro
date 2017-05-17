@@ -40,6 +40,6 @@ A personal list of favorite stations for easy access (Not achieved)
 
 Technologies Used:
 
-Rails 5, AngularJs, jQuery, Ajax, Json, Ajax, HTML5, CSS3, javaScript.
+Rails 5, AngularJs, jQuery, Ajax, Json, Ajax, HTML5, CSS3, javaScript..
 
 ERD Links:  https://www.lucidchart.com/publicSegments/view/2f886e69-bac7-4a6c-afd9-dd3d0f843095/image.jpeg
